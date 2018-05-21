@@ -275,6 +275,6 @@ header("Refresh: $maghribsec; url=$base_url_ur");
 $ishasec = strtotime($isha) - time();
 header("Refresh: $ishasec; url=$base_url_ur");
 
-
+test
 
 ?>
